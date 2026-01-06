@@ -1,4 +1,4 @@
-# .NET Core with Hexagonal Architecture
+# .NET 6 Web API with Hexagonal Architecture
 .NET 6 Core applications (console and webapi) example, with hexagonal architecture (ports and adapters). It includes unit, integration and architectural tests too.
 
 ## About the solution
